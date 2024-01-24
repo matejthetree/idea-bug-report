@@ -1,0 +1,8 @@
+version: 1
+creator: xdebug 3.3.0 (PHP 8.3.1)
+cmd: /Users/matej/IdeaProjects/untitled/profile.php
+part: 1
+positions: line
+
+events: Time_(10ns) Memory_(bytes)
+
